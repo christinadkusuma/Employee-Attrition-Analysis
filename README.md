@@ -9,4 +9,4 @@
 ## Link
 * Data set : https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data
 * Tableau  : https://public.tableau.com/app/profile/christina.dwi/viz/DataVisualizationAttritionAnalysis/DashboardHRAttritionAnalysis
-* Medium   : https://medium.com/@christina.d.kusuma
+* Medium   : https://medium.com/@christina.d.kusuma/employee-attrition-analysis-e3c6b96012df
